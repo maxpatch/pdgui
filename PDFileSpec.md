@@ -4,6 +4,7 @@
 * Statements are typically semicolon (;) delimited.
 * Statements generally begin with a ```#``` followed by an uppercase character, either ```N``` (canvas, struct), ```X``` (object, other), or ```A``` (array data).
 * Commas (,), tokens (e.g. $1), and non-delimiting semicolons (;) in text/message objects are typically escaped (e.g. ```\,```, ```\;```, or ```\$1```).
+* N.B. this is a high-level overview, intended to be used for parsing and generating .pd files.
 
 ### Canvas
 
